@@ -1,3 +1,3 @@
 # patch epsilon
 
-minor documentation improvement 5/8.
+minor documentation improvement 5/16.
