@@ -1,3 +1,3 @@
 # patch theta
 
-minor documentation improvement 8/8.
+minor documentation improvement 8/16.
