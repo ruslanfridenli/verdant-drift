@@ -1,3 +1,3 @@
 # patch zeta
 
-minor documentation improvement 6/8.
+minor documentation improvement 6/16.
