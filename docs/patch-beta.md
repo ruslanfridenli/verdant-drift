@@ -1,3 +1,3 @@
 # patch beta
 
-minor documentation improvement 2/8.
+minor documentation improvement 2/16.
