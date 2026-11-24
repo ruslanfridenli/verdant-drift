@@ -1,3 +1,3 @@
 # patch gamma
 
-minor documentation improvement 3/8.
+minor documentation improvement 3/16.
